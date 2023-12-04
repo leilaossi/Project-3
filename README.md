@@ -14,4 +14,4 @@ EXTRA FILES NOT NEEDED TO RUN THE PROGRAM:
 - ABBREV_alphaIndexed.xlsx // Excel file I exported into my CSV
 - ABBREV.xlsx // Original excel file from my original dataset source
 - sr28_doc.pdf // PDF from original dataset explaining in great detail what the dataset consists of
-- Report_LeilaOssi.docx // Project Report
+- Report_LeilaOssi.pdf // Project Report
